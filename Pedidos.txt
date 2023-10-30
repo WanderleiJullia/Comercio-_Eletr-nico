@@ -1,0 +1,22 @@
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (1, '2023-10-01', 1 , 'Em processamento');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (2, '2023-10-02', 2, 'Enviado');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (3, '2023-10-03', 3, 'Concluído');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (4, '2023-10-04', 4, 'Em processamento');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (5, '2023-10-05', 5, 'Concluído');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (6, '2023-10-06', 6, 'Em processamento');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (7,'2023-10-07', 7, 'Enviado');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (8, '2023-10-08', 8, 'Concluído');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (9, '2023-10-09', 9, 'Enviado');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (10, '2023-10-10', 10, 'Em processamento');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (11, '2023-10-11', 11, 'Concluído');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (12, '2023-10-12', 12, 'Enviado');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (13, '2023-10-13', 13, 'Concluído');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (14,'2023-10-14', 14, 'Enviado');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (15, '2023-10-15', 15, 'Em processamento');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (16, '2023-10-16', 16, 'Concluído');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (17, '2023-10-17', 17, 'Enviado');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (18, '2023-10-18', 18, 'Em processamento');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (19, '2023-10-19', 19, 'Enviado');
+insert into Pedidos(Id_Pedidos, Data_Pedido, Cliente_id, Status) values (20, '2023-10-20', 20, 'Concluído');
+
+select *from Pedidos;
