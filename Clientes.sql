@@ -1,0 +1,22 @@
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (1, 'João Silva', '123 Rua das Flores, Bairro Alegria, Cidade Feliz', '(11) 9876-5432', 'joao.silva@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (2, 'Maria Santos', '456 Avenida do Sol, Bairro Central, Cidade Grande', '(22) 8765-4321', 'maria.santos@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (3, 'Pedro Oliveira', '789 Travessa das Árvores, Bairro Tranquilo, Cidade Pequena', '(33) 7654-3210', 'pedro.oliveira@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (4,'Ana Costa', '101 Alameda da Praia, Bairro Costeiro, Cidade Litoral', '(44) 6543-2109', 'ana.costa@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (5,'Luiz Fernandes', '222 Avenida da Montanha, Bairro Montanhoso, Cidade Serra', '(55) 5432-1098', 'luiz.fernandes@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (6, 'Sara Ribeiro', '333 Rua da Estrela, Bairro Estelar, Cidade Celestial', '(66) 4321-0987', 'sara.ribeiro@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (7, 'Carlos Sousa', '444 Praça do Centro, Bairro Urbano, Cidade Metrópole', '(77) 3210-9876', 'carlos.sousa@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (8, 'Marta Lima', '555 Avenida das Rosas, Bairro Florido, Cidade Jardim', '(88) 2109-8765', 'marta.lima@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (9, 'Paulo Almeida', '666 Rua dos Pássaros, Bairro Arborizado, Cidade Bosque', '(99) 1098-7654', 'paulo.almeida@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (10, 'Isabela Gomes', '777 Alameda dos Riachos, Bairro Aquático, Cidade Lagoa', '(10) 0987-6543', 'isabela.gomes@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (11, 'Gustavo Marques', '888 Travessa das Pedras, Bairro Pedregoso, Cidade Rocha', '(21) 9876-5432', 'gustavo.marques@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (12, 'Eliane Ferreira', '999 Praça da Praia, Bairro Beira-Mar, Cidade Oceano', '(32) 8765-4321', 'eliane.ferreira@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (13,'Ricardo Santos', '1010 Avenida das Montanhas, Bairro Montanhoso, Cidade Pico', '(43) 7654-3210', 'ricardo.santos@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (14, 'Fernanda Oliveira', '1111 Rua do Sol, Bairro Solar, Cidade Brilhante', '(54) 6543-2109', 'fernanda.oliveira@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (15, 'Jorge Ribeiro', '1212 Alameda das Árvores, Bairro Arbor, Cidade Verde', '(65) 5432-1098', 'jorge.ribeiro@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (16, 'Lucia Pereira', '1313 Travessa dos Pássaros, Bairro Passarinho, Cidade Canção', '(73) 4321-0987', 'lucia.pereira@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (17,'Miguel Sousa', '1414 Praça das Estrelas, Bairro Estelar, Cidade Galáxia', '(88) 3210-9876', 'miguel.sousa@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (18,'Teresa Lima', '1515 Avenida dos Riachos, Bairro Riacho, Cidade Corrente', '(99) 1098-7654', 'teresa.lima@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (19,'Fernando Marques', '1616 Rua da Praia, Bairro Litoral, Cidade Mar', '(11) 0987-6543', 'fernando.marques@email.com');
+insert into Cliente (Cliente_id, Nome, Endereco_entrega, Telefone, Email) values (20,'Camila Gomes', '1717 Alameda das Pedras, Bairro Pedregulho, Cidade Pedra', '(22) 9876-5432', 'camila.gomes@email.com');
+
+select *from Cliente; 
