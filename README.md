@@ -4,6 +4,8 @@
 ![image](https://github.com/WanderleiJullia/Comercio-_Eletr-nico/assets/144744092/8c462374-ffba-4193-9c2e-bb8abeda6a61)
 
 ## 1º Modelo Logico de Comercio_Eletronico; 
+![image](https://github.com/WanderleiJullia/Comercio-_Eletr-nico/assets/144744092/1ecdc29f-f9e4-4724-aafc-005b9b3ac1e3)
+
 ## 2º Criação de tabelas; 
 ```SQL
 create table Produtos(
