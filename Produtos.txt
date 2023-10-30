@@ -1,0 +1,23 @@
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (1,'Smartphone Galaxy S21', 'Um smartphone Android com tela de 6.2 polegadas e câmera de alta resolução.', 799.99, 50); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (2,'TV LED Samsung 55 polegadas', 'Uma TV Full HD com tecnologia de imagem HDR.', 549.99, 30); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (3,'Fone de Ouvido Sony WH-1000XM4', 'Fones de ouvido sem fio com cancelamento de ruído.', 299.99, 40); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (4,'Tablet Apple iPad Pro', 'Tablet iOS com tela Retina de 11 polegadas e 128GB de armazenamento.', 799.99, 15); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (5,'Câmera Canon EOS 80D', 'Câmera DSLR com sensor APS-C de 24.2MP e gravação de vídeo Full HD.', 899.99, 10); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (5,'Câmera Canon EOS 80D', 'Câmera DSLR com sensor APS-C de 24.2MP e gravação de vídeo Full HD.', 899.99, 10); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (6,'Console de Video Game Xbox Series X', 'Console de última geração com suporte a jogos em 4K.', 499.99, 20); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (7,'Impressora HP LaserJet Pro', 'Uma impressora laser monocromática de alta velocidade.', 199.99, 35); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (8,'Monitor LG UltraWide 34"', 'Um monitor ultrawide com resolução 3440x1440.', 449.99, 18); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (9,'Mouse Logitech MX Master 3', 'Um mouse sem fio ergonômico com vários botões personalizáveis.', 79.99, 60); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (10,'Teclado Mecânico Corsair K95 RGB', 'Teclado mecânico com iluminação RGB personalizável.', 149.99, 25); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (11,'Roteador Wi-Fi ASUS RT-AX88U', 'Roteador Wi-Fi 6 de alta velocidade com múltiplas antenas.', 199.99, 12); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (12,'HD Externo Seagate 4TB', 'Unidade de disco rígido externo de alta capacidade.', 129.99, 22); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (13,'Câmera de Segurança Arlo Pro 3', 'Câmera de segurança sem fio com resolução 2K.', 199.99, 30); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (14,'Caixa de Som Bluetooth JBL Charge 5', 'Caixa de som portátil à prova dágua com bateria de longa duração.', 99.99, 45); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (15,'Máquina de Lavar LG TurboWash', 'Máquina de lavar roupa de carga frontal com capacidade de 10kg.', 699.99, 8); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (16,'Forno Elétrico Panasonic', 'Forno de convecção de 30 litros com várias funções de cozimento.', 149.99, 14); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (17,'Aspirador de Pó Dyson V11', 'Aspirador de pó sem fio com filtro HEPA e alta sucção.', 349.99, 16); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (18,'Secador de Cabelo Remington Pro', 'Secador de cabelo iônico com múltiplas configurações de calor.', 49.99, 55); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (19,'Máquina de Café Nespresso Vertuo', 'Máquina de café espresso com tecnologia de cápsulas.', 179.99, 28); 
+insert into Produtos (id_Produto, Nome, Descricao, preco, Quantidade_estoque) values (20,'Smartphone Galaxy S28', 'Um smartphone Android com tela de 8.2 polegadas e câmera de alta resolução.', 899.99, 30); 
+
+select * from Produtos; 
